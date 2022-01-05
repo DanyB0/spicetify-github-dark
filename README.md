@@ -41,7 +41,7 @@ I used [this theme](https://github.com/morpheusthewhite/spicetify-themes/tree/ma
 
 3.  Apply the theme just by running:
     ```bash
-    spicetify config current_theme THEME_NAME
+    spicetify config current_theme spicetify-github-dark
     spicetify apply
     ```
 
