@@ -11,10 +11,17 @@ I used [this theme](https://github.com/morpheusthewhite/spicetify-themes/tree/ma
 ![screenshot3](https://github.com/DanyB0/spicetify-github-dark/blob/main/screenshots/preview3.png)
 ## Installation and usage
 
-1.  Clone this repository. Make sure [git](https://git-scm.com/) is installed and run:
-    ```bash
+1.  Repository download
+  
+    **Using Git**
+
+    If you are a git user, you can install the theme and keep up to date by cloning the repo:
+    ```
     git clone https://github.com/DanyB0/spicetify-github-dark
     ```
+    **Manual download**
+    
+    Download using the [GitHub .zip download](https://github.com/DanyB0/spicetify-github-dark/releases) option and unzip it.
 
 2.  Copy the files into the [Spicetify Themes folder](https://github.com/khanhas/spicetify-cli/wiki/Customization#themes). Run:
 
@@ -44,7 +51,6 @@ I used [this theme](https://github.com/morpheusthewhite/spicetify-themes/tree/ma
     spicetify config current_theme spicetify-github-dark
     spicetify apply
     ```
-
 ## Team
 This project is maintained by me.
 [![DanyB0](https://avatars.githubusercontent.com/u/66164380?s=100)](https://github.com/DanyB0) |
